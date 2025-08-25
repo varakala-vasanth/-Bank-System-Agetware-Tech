@@ -1,0 +1,16 @@
+{
+  "name": "bank-system",
+  "version": "1.0.0",
+  "description": "Simple Bank Lending System",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}

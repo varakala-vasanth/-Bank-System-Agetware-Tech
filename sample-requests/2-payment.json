@@ -1,0 +1,5 @@
+{
+  "loan_id": 1,
+  "amount": 15000,
+  "type": "LUMP_SUM"
+}
